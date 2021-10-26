@@ -1,0 +1,15 @@
+
+p
+java:S14503"ZRemove the "falseButton" field and declare it as a local variable in the relevant methods.(Ôœ
+t
+java:S14504"YRemove the "nextButton" field and declare it as a local variable in the relevant methods.(º€ü‰ùÿÿÿÿ
+t
+java:S14502"YRemove the "trueButton" field and declare it as a local variable in the relevant methods.(Ãş×Äüÿÿÿÿ
+7
+java:S1116."Remove this empty statement.(ˆ¨‘øÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(Üà¨¯üÿÿÿÿ
+>
+java:S1604 "(Make this anonymous inner class a lambda(éäó‚
+C
+java:S1604'"(Make this anonymous inner class a lambda(ÈŒèâüÿÿÿÿ
